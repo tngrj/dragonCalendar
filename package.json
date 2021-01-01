@@ -1,0 +1,16 @@
+{
+  "name": "dragoncalendar",
+  "version": "1.0.0",
+  "description": "A calendar and maybe more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renjie Tng",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.1",
+    "bulma-calendar": "^6.0.9",
+    "express": "^4.17.1"
+  }
+}
